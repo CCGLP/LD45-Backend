@@ -1,0 +1,22 @@
+{
+  "name": "ludum_start_nothing",
+  "version": "1.0.0",
+  "description": "Backend to LD45 jam",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodejs app.js",
+    "start": "nodejs app.js"
+  },
+  "keywords": [
+    "backend",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Carlos Cortés",
+  "license": "C0",
+  "dependencies": {
+    "async": "^3.1.0",
+    "mongodb": "^3.3.2",
+    "ws": "^7.1.2"
+  }
+}
